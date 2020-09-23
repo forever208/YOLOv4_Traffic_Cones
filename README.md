@@ -4,3 +4,7 @@
 This is project call YOLOv4 official API to train a custom model which is used for detecting taffic cones.
 
 This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) and his detailed [video](https://www.youtube.com/watch?v=mmj3nxGT2YQ)
+
+
+### How to use the trained model
+  $ git clone
