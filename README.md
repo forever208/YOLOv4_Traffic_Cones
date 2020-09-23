@@ -19,7 +19,7 @@
 <img src="img/your GoogleDrive folder .png" width="800" />
 
 4. Open __YOLOv4_KTHFS.ipynb__ in colab and run all codes, connect your GoogleDrive to Colab
-5. Run the command to detect your images or videos, the result will be automatically saved to your GoogleDrive folder
+5. Run the command below to detect your images or videos, the result will be automatically saved to your GoogleDrive folder
 
 <img src="img/detect your images or videos.png" width="800" />
 
