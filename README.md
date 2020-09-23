@@ -5,6 +5,9 @@
 - This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) and his detailed [video](https://www.youtube.com/watch?v=mmj3nxGT2YQ)
 - Details of the traffic cone object detection model I trained:
      - 270 training images, 40 validation images
+     - 1000 epoches
+     - 53% map
+     - 46 fps (based on Colab GPU)
      
 
 ## How to use the trained model
@@ -28,7 +31,6 @@
     $ git clone https://github.com/forever208/YOLOv4_Traffic_Cones.git
 
     
-- open your google drive and creat 
-- 
+(to be done)
 
     
