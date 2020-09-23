@@ -15,7 +15,7 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 
 4. open __YOLOv4_KTHFS.ipynb__ in colab and run all codes, connect your GoogleDrive to Colab
 5. run the command to detect your images or videos, the result will be automatically saved to your GoogleDrive folder
-<img src="img/Snipaste_2020-09-23_10-51-37.png" width="1200" />
+<img src="img/detect your images or videos.png" width="1200" />
 
 
 
