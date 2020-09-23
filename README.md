@@ -12,7 +12,7 @@
 
 ## How to use the trained model
 
-1. Used the resources I shared in [Google Drive YOLOv4](https://drive.google.com/drive/folders/169crfWbRucJFBm_u3He2fmEE7l2e9eqK?usp=sharing)
+1. Used the resources I shared in [Google Drive YOLOv4](https://drive.google.com/drive/folders/14fgDkg3bVDhNwwX3zV-Tl0itMRhzOZTj)
 2. Download the YOLOv4_KTHFS folder and creat a same folder in your GoogleDrive
 3. upload your images or videos to this folder
 
