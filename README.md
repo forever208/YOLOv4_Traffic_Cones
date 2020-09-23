@@ -11,7 +11,7 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 1. Used the resources I shared in [Google Drive YOLOv4](https://drive.google.com/drive/folders/169crfWbRucJFBm_u3He2fmEE7l2e9eqK?usp=sharing)
 2. Download the YOLOv4_KTHFS folder and creat a same folder in your GoogleDrive
 3. upload your images or videos to this folder
-<img src="https://github.com/forever208/YOLOv4_Traffic_Cones/blob/master/img/Snipaste_2020-09-23_10-38-43.png" width="400" />
+<img src="https://github.com/forever208/YOLOv4_Traffic_Cones/blob/master/img/Snipaste_2020-09-23_10-38-43.png" width="600" />
 
 
 
