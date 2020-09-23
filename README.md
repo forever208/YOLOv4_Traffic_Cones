@@ -8,9 +8,20 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 
 ### How to use the trained model
 
- '$ git clone https://github.com/forever208/YOLOv4_Traffic_Cones.git'
+1. Used the resources I shared in [Google Drive YOLOv4](https://drive.google.com/drive/folders/169crfWbRucJFBm_u3He2fmEE7l2e9eqK?usp=sharing)
+2. Download the YOLOv4_KTHFS folder and creat a same folder in your GoogleDrive
+3. open __YOLOv4_KTHFS.ipynb__ and run all code, 
+    
+4. !
+
+
+
+### How to train and use your own model
+
+    $ git clone https://github.com/forever208/YOLOv4_Traffic_Cones.git
 
     
-- open the __YOLOv4_KTHFS.ipynb__ file in [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+- open your google drive and creat 
+- 
 
     
