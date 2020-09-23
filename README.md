@@ -7,4 +7,6 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 
 
 ### How to use the trained model
-  $ git clone
+
+    $ git clone
+    
