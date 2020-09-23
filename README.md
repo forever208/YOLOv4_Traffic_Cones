@@ -8,7 +8,9 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 
 ### How to use the trained model
 
-1.    $ git clone https://github.com/forever208/YOLOv4_Traffic_Cones.git
+'''
+$ git clone https://github.com/forever208/YOLOv4_Traffic_Cones.git
+'''
     
 2. open the __YOLOv4_KTHFS.ipynb__ file in [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
