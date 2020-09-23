@@ -12,5 +12,5 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
     
 open the __YOLOv4_KTHFS.ipynb__ file in [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
--（+*） 第一项 -（+*） 第二项 - （+*）第三项
+ -（+*） 第一项 -（+*） 第二项 - （+*）第三项 
     
