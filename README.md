@@ -3,4 +3,4 @@
 # YOLOv4_Traffic_Cones
 This is project call YOLOv4 official API to train a custom model which is used for detecting taffic cones.
 
-This project refers to ![AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
+This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
