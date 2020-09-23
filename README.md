@@ -12,7 +12,7 @@ This project refers to [AIGuy's repo](https://github.com/theAIGuysCode/YOLOv4-Cl
 2. Download the YOLOv4_KTHFS folder and creat a same folder in your GoogleDrive
 3. open __YOLOv4_KTHFS.ipynb__ and run all code, 
     
-4. ![upload your video]https://github.com/forever208/YOLOv4_Traffic_Cones/blob/master/img/Snipaste_2020-09-23_10-38-43.png
+4. ![upload your video](https://github.com/forever208/YOLOv4_Traffic_Cones/blob/master/img/Snipaste_2020-09-23_10-38-43.png)
 
 
 
